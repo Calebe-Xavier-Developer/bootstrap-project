@@ -2,5 +2,14 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: "Roboto", sans-serif;
+  font-family: 'Roboto', sans-serif;
+}
+
+.navbar {
+  background: #40206b !important;
+}
+
+.quem-somos {
+  padding-top: 5 0px;
+  background-color: #5d5d5d;
 }
