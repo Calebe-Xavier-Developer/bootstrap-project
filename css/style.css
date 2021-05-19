@@ -10,6 +10,17 @@
 }
 
 .quem-somos {
-  padding-top: 5 0px;
-  background-color: #5d5d5d;
+  padding: 50px 0;
+  background-color: #286e97;
+  color: #fff;
+}
+
+.margin{
+  margin: 50px 0;
+}
+
+.parceiros{
+  background-color: aqua;
+  height: auto;
+  padding: 50px 0;
 }
